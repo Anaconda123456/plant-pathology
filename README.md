@@ -28,14 +28,14 @@ Objectives of ‘Plant Pathology Challenge’ are to train a model using images 
 
 
 <p>
-    <img src="result1.JPG" width="600" height="600" />
+    <img src="result1.jfif" width="600" height="600" />
 </p>
 <p>
-    <img src="result2.JPG" width="600" height="600" />
+    <img src="result2.jfif" width="600" height="600" />
 </p>
 <p>
-    <img src="result3.JPG" width="600" height="600" />
+    <img src="result3.jfif" width="600" height="600" />
 </p>
 <p>
-    <img src="result4.JPG" width="600" height="600" />
+    <img src="result4.jfif" width="600" height="600" />
 </p>
